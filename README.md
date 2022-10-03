@@ -850,3 +850,8 @@ hi’) or (‘a’='a
 hi”) or (“a”=”)
 ' OR 1=1 --+ 
 ```
+
+# Credits
+
+Mostly provided by:
+https://twitter.com/0dayCTF/status/1576942592868372480v
